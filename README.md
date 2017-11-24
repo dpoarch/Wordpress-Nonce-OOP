@@ -12,7 +12,7 @@ You can install this class by pasting it into the root of your plugin directory.
 
 ## Usage
 
-Setup the minimum required thigs:
+Setup:
 
 ```php
 <?php 
